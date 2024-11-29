@@ -81,8 +81,8 @@ pip install colorama tqdm rarfile
 ### نحوه کلون کردن پروژه
 ابتدا مخزن گیت‌هاب پروژه را کلون کنید:
 ```bash
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ELITE-DRAGON/BILL-CYPHER.git
+cd BILL-CYPHER
 ```
 
 ### اجرای ابزار
