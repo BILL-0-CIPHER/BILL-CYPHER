@@ -103,7 +103,7 @@ pip install colorama tqdm rarfile
 ### **Contributing**
 Feel free to fork this repository and submit pull requests with improvements or additional features. Feedback is always welcome!
 
-**Author:** [Your Name](https://github.com/your-profile)  
+**Author:** [BILL-CYPHER](https://github.com/ELITE-DRAGON)  
 **License:** MIT  
 
 Enjoy streamlined file management and log processing! 🚀
