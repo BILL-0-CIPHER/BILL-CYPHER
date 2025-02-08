@@ -49,7 +49,7 @@ pip install colorama tqdm rarfile
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ELITE-DRAGON/BILL-CYPHER.git
+   git clone https://github.com/BILL-0-CIPHER/BILL-CYPHER.git
    cd BILL-CYPHER
    ```
 
